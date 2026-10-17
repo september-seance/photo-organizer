@@ -1,0 +1,181 @@
+{
+  "zip_filename": "photo-organizer-identity-document.zip",
+  "safe_name": "photo-organizer-identity-document",
+  "extracted_at": "2026-10-17T21:56:33.023874+00:00",
+  "files": [
+    {
+      "original_path_in_zip": ".gitignore",
+      "extracted_path": "apps/photo-organizer-identity-document/.gitignore",
+      "size_bytes": 213,
+      "sha256_hex": "54b77d4724ca6523e697ef6f4aea7843432d5a32619c96b308a5e3e51f7333e9"
+    },
+    {
+      "original_path_in_zip": "docs/IDENTITY.md",
+      "extracted_path": "apps/photo-organizer-identity-document/docs/IDENTITY.md",
+      "size_bytes": 17977,
+      "sha256_hex": "c48720e00c85f3fb89ac11a0d1b8babba61715eff7a5673d7b6a1fd87c81172c"
+    },
+    {
+      "original_path_in_zip": "drizzle.config.json",
+      "extracted_path": "apps/photo-organizer-identity-document/drizzle.config.json",
+      "size_bytes": 156,
+      "sha256_hex": "cc44502003e85bb5258a3a5b59522c28238a052d0f19abcf14338c71474467b7"
+    },
+    {
+      "original_path_in_zip": "eslint.config.mjs",
+      "extracted_path": "apps/photo-organizer-identity-document/eslint.config.mjs",
+      "size_bytes": 365,
+      "sha256_hex": "c971926abccc506da1532570c55a95d5298b606901c4801866a4862969c13302"
+    },
+    {
+      "original_path_in_zip": "next.config.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/next.config.ts",
+      "size_bytes": 104,
+      "sha256_hex": "ab4c61f6ee100ae43610a18512f1ebcec842bb2405431e1009266173f21cf772"
+    },
+    {
+      "original_path_in_zip": "package.json",
+      "extracted_path": "apps/photo-organizer-identity-document/package.json",
+      "size_bytes": 790,
+      "sha256_hex": "f5623d7bef82dcce19de64787c7ad682cd17151a23344fd01b19efd803035b0e"
+    },
+    {
+      "original_path_in_zip": "postcss.config.mjs",
+      "extracted_path": "apps/photo-organizer-identity-document/postcss.config.mjs",
+      "size_bytes": 108,
+      "sha256_hex": "b8cd36495468ea54e029eb4b2e0e98f0feff6f95d6513e70db37a71c0e3bfba4"
+    },
+    {
+      "original_path_in_zip": "src/app/HomeClient.tsx",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/HomeClient.tsx",
+      "size_bytes": 9733,
+      "sha256_hex": "4760d1025dd554482967dc42a487681cd41c5a2ea68a01757c05bc3c8259272f"
+    },
+    {
+      "original_path_in_zip": "src/app/api/batches/[id]/export/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/batches/[id]/export/route.ts",
+      "size_bytes": 2196,
+      "sha256_hex": "23da32c78c18af0fe23c0e3e36641b4ab2c159c19e958a24fe56a3dd80be96b3"
+    },
+    {
+      "original_path_in_zip": "src/app/api/batches/[id]/folders/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/batches/[id]/folders/route.ts",
+      "size_bytes": 905,
+      "sha256_hex": "a53410c52706044fb4b6052a974865b3201aa0deb1613214ec78f76363a926de"
+    },
+    {
+      "original_path_in_zip": "src/app/api/batches/[id]/photos/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/batches/[id]/photos/route.ts",
+      "size_bytes": 1461,
+      "sha256_hex": "df69e1dea2b3d32a754b35aac9592bb1ec93b978bac22cae3b60005183fbae39"
+    },
+    {
+      "original_path_in_zip": "src/app/api/batches/[id]/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/batches/[id]/route.ts",
+      "size_bytes": 2157,
+      "sha256_hex": "c5b649977d5c2f75f3a92beebb988bd46e0a2d62ea5de6727da0895d18c1dedb"
+    },
+    {
+      "original_path_in_zip": "src/app/api/batches/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/batches/route.ts",
+      "size_bytes": 723,
+      "sha256_hex": "0fb1fd7ac36960d005e9150f23f248a67a28b1d93fd299cf8825026a4236eb40"
+    },
+    {
+      "original_path_in_zip": "src/app/api/folders/[id]/export/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/folders/[id]/export/route.ts",
+      "size_bytes": 1567,
+      "sha256_hex": "90a277fbadee0e17b64134e2b7f47b6f73dda215f6544690cb8d23603ca3f944"
+    },
+    {
+      "original_path_in_zip": "src/app/api/folders/[id]/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/folders/[id]/route.ts",
+      "size_bytes": 1519,
+      "sha256_hex": "23c5a3552829f3f91f154d4266d54768c9b7f6d1317d5c5e0967db29ab75c47f"
+    },
+    {
+      "original_path_in_zip": "src/app/api/health/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/health/route.ts",
+      "size_bytes": 295,
+      "sha256_hex": "85ecde9db86952d444d593f4133df2b517ed768accc487350d35bb0db498357f"
+    },
+    {
+      "original_path_in_zip": "src/app/api/photos/[id]/file/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/photos/[id]/file/route.ts",
+      "size_bytes": 1381,
+      "sha256_hex": "2ea7c27101b5b6a78ac40e0bedb096b71616441f7bd751e3513cd909a48a6c77"
+    },
+    {
+      "original_path_in_zip": "src/app/api/photos/delete/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/photos/delete/route.ts",
+      "size_bytes": 970,
+      "sha256_hex": "f34faec7ef5684e649baa7d808a7c8fa34d689da7310e119d6748f4cb0d9a531"
+    },
+    {
+      "original_path_in_zip": "src/app/api/photos/move/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/api/photos/move/route.ts",
+      "size_bytes": 2608,
+      "sha256_hex": "13ddf1e83da27c2d7d9efb0d61ba48cb1a4ad0857cb5ed728c89e45624fbfc98"
+    },
+    {
+      "original_path_in_zip": "src/app/batches/[id]/Workspace.tsx",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/batches/[id]/Workspace.tsx",
+      "size_bytes": 35322,
+      "sha256_hex": "fd37d1f8375df15e626c207fed52fc7078484f52521a5678bcf60bbe0f6b4785"
+    },
+    {
+      "original_path_in_zip": "src/app/batches/[id]/page.tsx",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/batches/[id]/page.tsx",
+      "size_bytes": 501,
+      "sha256_hex": "b0a522d8afa2ca2a41129cc76e1a0009b67d895224f2c2995d2cf4b8a4ca2c67"
+    },
+    {
+      "original_path_in_zip": "src/app/globals.css",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/globals.css",
+      "size_bytes": 23,
+      "sha256_hex": "42070e0b45bb201b2b838a52aaaa6e965f964e0b542d97f1fe517fe59c4b75a8"
+    },
+    {
+      "original_path_in_zip": "src/app/layout.tsx",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/layout.tsx",
+      "size_bytes": 488,
+      "sha256_hex": "1f853a192591539681607285a0f843741495bea61b771aa3d8596cafe1f8eb2a"
+    },
+    {
+      "original_path_in_zip": "src/app/page.tsx",
+      "extracted_path": "apps/photo-organizer-identity-document/src/app/page.tsx",
+      "size_bytes": 263,
+      "sha256_hex": "b3dae09676513a27d415b4aae7b478b1f34c7303856e154b90298ea9e3052ca3"
+    },
+    {
+      "original_path_in_zip": "src/db/index.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/db/index.ts",
+      "size_bytes": 547,
+      "sha256_hex": "44d8e984cf4d238facb3e984c6a2ffa7abfca11768da1304ff439d2b7246990b"
+    },
+    {
+      "original_path_in_zip": "src/db/schema.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/db/schema.ts",
+      "size_bytes": 1885,
+      "sha256_hex": "8ba64e0573dbc8539dc53a9f74d79ab8c5f48a3474fc5b2bb9fcbc60e7499b6f"
+    },
+    {
+      "original_path_in_zip": "src/lib/batch-data.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/lib/batch-data.ts",
+      "size_bytes": 2242,
+      "sha256_hex": "b8d108a1f3395bc376aca188e3bb4b40f9fcaad8a7e21746c1e13d2b9d16039e"
+    },
+    {
+      "original_path_in_zip": "src/lib/snapsort.ts",
+      "extracted_path": "apps/photo-organizer-identity-document/src/lib/snapsort.ts",
+      "size_bytes": 5448,
+      "sha256_hex": "d3bdd57f4176bb0936737cac4e650bfa98f8ca9e9f2d42017e7abbc3f17c3225"
+    },
+    {
+      "original_path_in_zip": "tsconfig.json",
+      "extracted_path": "apps/photo-organizer-identity-document/tsconfig.json",
+      "size_bytes": 723,
+      "sha256_hex": "4ea5303fb21d01b83151db57d43246ba2ac0bbb4e79b9e83b3a120b2599c4351"
+    }
+  ]
+}

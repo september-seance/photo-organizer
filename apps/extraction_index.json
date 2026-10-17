@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "safe_name": "photo-organizer-identity-document-1",
+      "branch": "arena/bd6863af-photo-organizer",
+      "zip_filename": "photo-organizer-identity-document(1).zip",
+      "zip_sha256": "438f9fe51874c42b2d22665adfe696d51bfbad8d3012d0765632b40a8227c3d4",
+      "manifest_relative_path": "apps/photo-organizer-identity-document-1/extraction_manifest.json"
+    },
+    {
+      "safe_name": "photo-organizer-identity-document",
+      "branch": "arena/bd6863af-photo-organizer",
+      "zip_filename": "photo-organizer-identity-document.zip",
+      "zip_sha256": "28a654ca028cd9b1bf1505cd7e5599c381488909cc95edf07265a1382a9e8dc6",
+      "manifest_relative_path": "apps/photo-organizer-identity-document/extraction_manifest.json"
+    }
+  ]
+}

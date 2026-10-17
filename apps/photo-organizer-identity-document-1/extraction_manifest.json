@@ -1,0 +1,139 @@
+{
+  "zip_filename": "photo-organizer-identity-document(1).zip",
+  "safe_name": "photo-organizer-identity-document-1",
+  "extracted_at": "2026-10-17T21:56:33.001085+00:00",
+  "files": [
+    {
+      "original_path_in_zip": "drizzle.config.json",
+      "extracted_path": "apps/photo-organizer-identity-document-1/drizzle.config.json",
+      "size_bytes": 156,
+      "sha256_hex": "cc44502003e85bb5258a3a5b59522c28238a052d0f19abcf14338c71474467b7"
+    },
+    {
+      "original_path_in_zip": "eslint.config.mjs",
+      "extracted_path": "apps/photo-organizer-identity-document-1/eslint.config.mjs",
+      "size_bytes": 365,
+      "sha256_hex": "c971926abccc506da1532570c55a95d5298b606901c4801866a4862969c13302"
+    },
+    {
+      "original_path_in_zip": "next.config.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/next.config.ts",
+      "size_bytes": 104,
+      "sha256_hex": "ab4c61f6ee100ae43610a18512f1ebcec842bb2405431e1009266173f21cf772"
+    },
+    {
+      "original_path_in_zip": "package.json",
+      "extracted_path": "apps/photo-organizer-identity-document-1/package.json",
+      "size_bytes": 773,
+      "sha256_hex": "3e00ba596bff048565705e23323c16b5f1a11f1d2bb51290d23f7a743dbfc3f4"
+    },
+    {
+      "original_path_in_zip": "postcss.config.mjs",
+      "extracted_path": "apps/photo-organizer-identity-document-1/postcss.config.mjs",
+      "size_bytes": 108,
+      "sha256_hex": "b8cd36495468ea54e029eb4b2e0e98f0feff6f95d6513e70db37a71c0e3bfba4"
+    },
+    {
+      "original_path_in_zip": "src/app/SnapSortApp.tsx",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/SnapSortApp.tsx",
+      "size_bytes": 57100,
+      "sha256_hex": "f8d1cb341a41b364c42c1cfc23169aa3f8a82ea7894caf7b0baab4344c214db6"
+    },
+    {
+      "original_path_in_zip": "src/app/api/batches/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/api/batches/route.ts",
+      "size_bytes": 2127,
+      "sha256_hex": "5ee87d69a3251959995408d5aec37d7f29b1f64882e82c77bdecae5532478707"
+    },
+    {
+      "original_path_in_zip": "src/app/api/categories/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/api/categories/route.ts",
+      "size_bytes": 1163,
+      "sha256_hex": "8d462631ccc8d0f44480e973ab09ff826066a6ef601d18e70fbfaa95b9fecebf"
+    },
+    {
+      "original_path_in_zip": "src/app/api/data/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/api/data/route.ts",
+      "size_bytes": 1110,
+      "sha256_hex": "5fd1f330e752a7b1e77d4179babcfe1f79bac605e83c1e7ba071fd8020285478"
+    },
+    {
+      "original_path_in_zip": "src/app/api/decisions/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/api/decisions/route.ts",
+      "size_bytes": 770,
+      "sha256_hex": "1eebb39d8b2bd32b89262c6e8faa08c415f49330778dd43795cbe2e1205cc9de"
+    },
+    {
+      "original_path_in_zip": "src/app/api/export/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/api/export/route.ts",
+      "size_bytes": 1453,
+      "sha256_hex": "820d783e8b8d3f40c5bdc84375a4f40f97fb7d05b69d08b700fb74da695065a9"
+    },
+    {
+      "original_path_in_zip": "src/app/api/health/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/api/health/route.ts",
+      "size_bytes": 295,
+      "sha256_hex": "85ecde9db86952d444d593f4133df2b517ed768accc487350d35bb0db498357f"
+    },
+    {
+      "original_path_in_zip": "src/app/api/sections/[id]/route.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/api/sections/[id]/route.ts",
+      "size_bytes": 612,
+      "sha256_hex": "ced4246068244f739a97ff86b72b8fe149dd95aa473a2d3f1f046a7fd2a66f2e"
+    },
+    {
+      "original_path_in_zip": "src/app/globals.css",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/globals.css",
+      "size_bytes": 1139,
+      "sha256_hex": "43b38da3f5d96d71c9a6bf06a01230e9dc565d2bdc2ff345ffae25d595a6b936"
+    },
+    {
+      "original_path_in_zip": "src/app/layout.tsx",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/layout.tsx",
+      "size_bytes": 487,
+      "sha256_hex": "03438d21ea25a86d00eae2543457416321d62a27131fbcd5a3b546dccdb84e40"
+    },
+    {
+      "original_path_in_zip": "src/app/page.tsx",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/app/page.tsx",
+      "size_bytes": 142,
+      "sha256_hex": "ab81bc3104038e72a13be4b0b7eb8b4eb5d7cf118903c6729917d881390b5415"
+    },
+    {
+      "original_path_in_zip": "src/db/index.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/db/index.ts",
+      "size_bytes": 547,
+      "sha256_hex": "44d8e984cf4d238facb3e984c6a2ffa7abfca11768da1304ff439d2b7246990b"
+    },
+    {
+      "original_path_in_zip": "src/db/schema.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/db/schema.ts",
+      "size_bytes": 2677,
+      "sha256_hex": "5301852def73cd178f4b0b338a8814c9afbaa1a1d4ba14df8f5e6b81e2249fd0"
+    },
+    {
+      "original_path_in_zip": "src/lib/classifier.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/lib/classifier.ts",
+      "size_bytes": 8386,
+      "sha256_hex": "5489325e3a9e0c2ab7f1a5fa5fd168e3a7a0f5483c144a3229ae7af5fbfb1b63"
+    },
+    {
+      "original_path_in_zip": "src/lib/dbseed.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/lib/dbseed.ts",
+      "size_bytes": 1729,
+      "sha256_hex": "b410da3064bf82f3930c0240c01fd5bbbe0deebab6db5a587295f1518d26d84c"
+    },
+    {
+      "original_path_in_zip": "src/lib/seed.ts",
+      "extracted_path": "apps/photo-organizer-identity-document-1/src/lib/seed.ts",
+      "size_bytes": 16284,
+      "sha256_hex": "0b06073063df35036b468648ee5533c1f7d5329be15380a6c8cb69dbb8e9e522"
+    },
+    {
+      "original_path_in_zip": "tsconfig.json",
+      "extracted_path": "apps/photo-organizer-identity-document-1/tsconfig.json",
+      "size_bytes": 723,
+      "sha256_hex": "4ea5303fb21d01b83151db57d43246ba2ac0bbb4e79b9e83b3a120b2599c4351"
+    }
+  ]
+}
