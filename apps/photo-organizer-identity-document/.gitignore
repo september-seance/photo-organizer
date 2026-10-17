@@ -1,0 +1,16 @@
+# Dependencies and build output
+node_modules
+.next
+out
+
+# SnapSort stores copies of the user's photos here. Never commit them.
+data
+
+# Environment
+.env
+.env*.local
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.log
