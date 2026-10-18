@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root{
+  --mint:#92B372; --mint-deep:#5E8C4A; --mint-dark:#3E5C31; --ink:#2E3436; --paper:#F6F5F0; --cream:#EFECE4; --folder:#E9B872; --folder-deep:#D99B3F;
+}
+html{scroll-behavior:smooth}
+body{background:#2A2F31;color:var(--ink);font-family:ui-sans-system,-apple-system,"Segoe UI",Cantarell,Ubuntu,Inter,Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+::selection{background:#C9DEB0}
+.font-mono2{font-family:ui-monospace,"Ubuntu Mono",Menlo,Consolas,monospace}
+.desktop-bg{background-color:#2A2F31;background-image:radial-gradient(rgba(255,255,255,.06) 1px,transparent 1px);background-size:22px 22px}
+.paper{background:var(--paper)}
+.no-scrollbar::-webkit-scrollbar{display:none}
+.no-scrollbar{scrollbar-width:none}
+details>summary{list-style:none;cursor:pointer}
+details>summary::-webkit-details-marker{display:none}
+input[type=range]{accent-color:var(--mint-deep)}
+@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.fade-up{animation:fadeUp .45s ease both}
+@keyframes pulse-soft{0%,100%{opacity:1}50%{opacity:.55}}
+.pulse-soft{animation:pulse-soft 1.6s ease infinite}
